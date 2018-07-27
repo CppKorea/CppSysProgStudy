@@ -1,5 +1,5 @@
 
-> 2 주차: 7월 28일
+> 3 주차: 7월 28일
 
 ### 참고자료 
  - Computer Security - Principles and Practice. 3rd E 
