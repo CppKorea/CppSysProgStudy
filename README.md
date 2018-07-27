@@ -73,7 +73,9 @@ C++ Korea에서 진행하는 2018년 여름 특강입니다.
     - File Descriptor
     - C, C++ 표준 라이브러리들과의 비교
 
-#### 7월 28일
+#### [7월 28일](./Week3.md)
+
+토즈 교대점. 1:00 pm ~ 4:00 pm
 
  - OS가 제공하는 보안 서비스
    - Confidentiality, Integrity, Availability (CIA Triad)
